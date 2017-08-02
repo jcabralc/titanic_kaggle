@@ -6,7 +6,7 @@ My first Kaggle Competition and first R script for Data Science :)
 
 Using Random Forest for Classification.
 
-## In this Script will tryed to:
+## In this Script you will find:
 ## Data Handling
 *   Importing CSV Data
 *   Exploring Data through Visualizations with ggplot2
